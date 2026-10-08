@@ -1,7 +1,6 @@
 # Hi, I'm Razan Jiryis 👋
 
-Electrical and Computer Engineering student at the **Technion**, interested in
-**VLSI, physical design, and computer architecture**.
+Electrical and Computer Engineering student at the **Technion**.
 
 ### 🔧 Projects
 - **[Angry Birds on FPGA](https://github.com/razanjiryis/angry-birds-fpga)** —
