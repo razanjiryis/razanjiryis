@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Razan Jiryis 👋
 
-<!--
-**razanjiryis/razanjiryis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical and Computer Engineering student at the **Technion**, interested in
+**VLSI, physical design, and computer architecture**.
 
-Here are some ideas to get you started:
+### 🔧 Projects
+- **[Angry Birds on FPGA](https://github.com/razanjiryis/angry-birds-fpga)** —
+  A complete digital system in SystemVerilog: real-time game logic, VGA graphics
+  controller, and scoring, taken from RTL through simulation, synthesis, and
+  hardware bring-up.
+- **[Acne Severity Assessment](https://github.com/razanjiryis/acne-severity-assessment)** —
+  Deep-learning pipeline (U-Net + Faster R-CNN) developed with a dermatologist
+  from Rambam Hospital.
+  🏆 Lab Excellence Award, Technion ECE (2025/2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+SystemVerilog · Python · C/C++ · Linux · Git · Cadence tools · MATLAB
+
+📫 [LinkedIn](http://linkedin.com/in/razanjiryis) · razan.jiryis.ce@gmail.com
